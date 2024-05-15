@@ -1,5 +1,5 @@
 <?php
-require_once 'config.php';
-header('Location: form.php');
+require_once 'configg.php';
+header('Location: formm.php');
 exit;
 ?>

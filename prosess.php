@@ -1,6 +1,6 @@
 <?php
 // Include the database configuration file
-require_once 'config.php';
+require_once 'configg.php';
 
 // Insert the data into the table
 $nama = $_POST['nama'];

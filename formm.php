@@ -51,7 +51,7 @@
     </style>
 </head>
 <body>
-    <form action="proses.php" method="POST">
+    <form action="prosess.php" method="POST">
         <fieldset>
             <legend>Biodata</legend>
             <p>
